@@ -8,6 +8,7 @@ TagManager:
   - Nextlevel
   - RestartLevel
   - First terrian
+  - Restart
   layers:
   - Default
   - TransparentFX
