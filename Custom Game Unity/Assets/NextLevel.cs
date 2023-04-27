@@ -2,13 +2,16 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-public class RestartLevel : MonoBehaviour
+
+public class NextLevel : MonoBehaviour
 {
+
     private void OnCollisionEnter(Collision collision)
     {
-        if (collision.gameObject.CompareTag("RestartLevel"))
+        if (collision.gameObject.CompareTag("NextLevel"))
         {
-            SceneManager.LoadScene("Restart");
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }
+
     }
 }
