@@ -6,9 +6,10 @@ public class RestartLevel : MonoBehaviour
 {
     private void OnCollisionEnter(Collision collision)
     {
-        if (collision.gameObject.CompareTag("RestartLevel"))
+        if (collision.gameObject.CompareTag("Restart"))
         {
-            SceneManager.LoadScene("Restart");
+            SceneManager.LoadScene("game dev project 1");
         }
+
     }
 }

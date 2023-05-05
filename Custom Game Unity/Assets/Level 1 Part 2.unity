@@ -2295,6 +2295,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: painted_wall_barrier
       objectReference: {fileID: 0}
+    - target: {fileID: 150262, guid: e0c9e7b86067ab64dacba4d674191ebb, type: 3}
+      propertyPath: m_TagString
+      value: Restart
+      objectReference: {fileID: 0}
     - target: {fileID: 416204, guid: e0c9e7b86067ab64dacba4d674191ebb, type: 3}
       propertyPath: m_RootOrder
       value: 34
@@ -2594,7 +2598,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 117884, guid: b8c83c417104d75459226dd80248bfe2, type: 3}
       propertyPath: m_TagString
-      value: RestartLevel
+      value: Restart
       objectReference: {fileID: 0}
     - target: {fileID: 486570, guid: b8c83c417104d75459226dd80248bfe2, type: 3}
       propertyPath: m_RootOrder
@@ -2744,6 +2748,10 @@ PrefabInstance:
       value: shopping cart prefab (1)
       objectReference: {fileID: 0}
     - target: {fileID: 1010126792893640, guid: e70233268e8d3e64187fc14a41cacef0, type: 3}
+      propertyPath: m_TagString
+      value: Restart
+      objectReference: {fileID: 0}
+    - target: {fileID: 1052906235292198, guid: e70233268e8d3e64187fc14a41cacef0, type: 3}
       propertyPath: m_TagString
       value: Restart
       objectReference: {fileID: 0}
@@ -3649,7 +3657,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 177858, guid: 73d18ed494f69ad41b44fe6d2c7c54d4, type: 3}
       propertyPath: m_TagString
-      value: RestartLevel
+      value: Restart
       objectReference: {fileID: 0}
     - target: {fileID: 442014, guid: 73d18ed494f69ad41b44fe6d2c7c54d4, type: 3}
       propertyPath: m_RootOrder
@@ -4082,6 +4090,10 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Restart
       objectReference: {fileID: 0}
+    - target: {fileID: 1052906235292198, guid: e70233268e8d3e64187fc14a41cacef0, type: 3}
+      propertyPath: m_TagString
+      value: Restart
+      objectReference: {fileID: 0}
     - target: {fileID: 4859891124178544, guid: e70233268e8d3e64187fc14a41cacef0, type: 3}
       propertyPath: m_RootOrder
       value: 155
@@ -4178,7 +4190,7 @@ Light:
     m_Type: 2
     m_Resolution: -1
     m_CustomResolution: -1
-    m_Strength: 1
+    m_Strength: 0.05
     m_Bias: 0.05
     m_NormalBias: 0.4
     m_NearPlane: 0.2
@@ -4246,6 +4258,10 @@ PrefabInstance:
       value: shopping cart prefab (5)
       objectReference: {fileID: 0}
     - target: {fileID: 1010126792893640, guid: e70233268e8d3e64187fc14a41cacef0, type: 3}
+      propertyPath: m_TagString
+      value: Restart
+      objectReference: {fileID: 0}
+    - target: {fileID: 1052906235292198, guid: e70233268e8d3e64187fc14a41cacef0, type: 3}
       propertyPath: m_TagString
       value: Restart
       objectReference: {fileID: 0}
@@ -4544,7 +4560,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114438, guid: 5f1bb2cacf6d4ca4c878049b803fd391, type: 3}
       propertyPath: m_TagString
-      value: RestartLevel
+      value: Restart
       objectReference: {fileID: 0}
     - target: {fileID: 492470, guid: 5f1bb2cacf6d4ca4c878049b803fd391, type: 3}
       propertyPath: m_RootOrder
@@ -4694,7 +4710,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 178508, guid: 8142860b8f89a564faf152e3c8b743e7, type: 3}
       propertyPath: m_TagString
-      value: RestartLevel
+      value: Restart
       objectReference: {fileID: 0}
     - target: {fileID: 417748, guid: 8142860b8f89a564faf152e3c8b743e7, type: 3}
       propertyPath: m_RootOrder
@@ -4766,6 +4782,10 @@ PrefabInstance:
       value: shopping cart prefab
       objectReference: {fileID: 0}
     - target: {fileID: 1010126792893640, guid: e70233268e8d3e64187fc14a41cacef0, type: 3}
+      propertyPath: m_TagString
+      value: Restart
+      objectReference: {fileID: 0}
+    - target: {fileID: 1052906235292198, guid: e70233268e8d3e64187fc14a41cacef0, type: 3}
       propertyPath: m_TagString
       value: Restart
       objectReference: {fileID: 0}
@@ -6268,6 +6288,10 @@ PrefabInstance:
       value: shopping cart prefab (9)
       objectReference: {fileID: 0}
     - target: {fileID: 1010126792893640, guid: e70233268e8d3e64187fc14a41cacef0, type: 3}
+      propertyPath: m_TagString
+      value: Restart
+      objectReference: {fileID: 0}
+    - target: {fileID: 1052906235292198, guid: e70233268e8d3e64187fc14a41cacef0, type: 3}
       propertyPath: m_TagString
       value: Restart
       objectReference: {fileID: 0}
@@ -8059,7 +8083,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 117884, guid: b8c83c417104d75459226dd80248bfe2, type: 3}
       propertyPath: m_TagString
-      value: RestartLevel
+      value: Restart
       objectReference: {fileID: 0}
     - target: {fileID: 486570, guid: b8c83c417104d75459226dd80248bfe2, type: 3}
       propertyPath: m_RootOrder
@@ -10245,7 +10269,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1052906235292198, guid: e70233268e8d3e64187fc14a41cacef0, type: 3}
       propertyPath: m_TagString
-      value: RestartLevel
+      value: Restart
       objectReference: {fileID: 0}
     - target: {fileID: 4859891124178544, guid: e70233268e8d3e64187fc14a41cacef0, type: 3}
       propertyPath: m_RootOrder
@@ -10674,6 +10698,10 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Restart
       objectReference: {fileID: 0}
+    - target: {fileID: 1052906235292198, guid: e70233268e8d3e64187fc14a41cacef0, type: 3}
+      propertyPath: m_TagString
+      value: Restart
+      objectReference: {fileID: 0}
     - target: {fileID: 4859891124178544, guid: e70233268e8d3e64187fc14a41cacef0, type: 3}
       propertyPath: m_RootOrder
       value: 157
@@ -11096,7 +11124,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1134554101}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: eaecc1c6d2de25f4588f0f71b596558f, type: 3}
+  m_Script: {fileID: 11500000, guid: 89309d5f240823e4c9e9a696bb911af6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &1834641252
@@ -12122,6 +12150,10 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Restart
       objectReference: {fileID: 0}
+    - target: {fileID: 1052906235292198, guid: e70233268e8d3e64187fc14a41cacef0, type: 3}
+      propertyPath: m_TagString
+      value: Restart
+      objectReference: {fileID: 0}
     - target: {fileID: 4859891124178544, guid: e70233268e8d3e64187fc14a41cacef0, type: 3}
       propertyPath: m_RootOrder
       value: 153
@@ -12224,6 +12256,10 @@ PrefabInstance:
       value: shopping cart prefab (2)
       objectReference: {fileID: 0}
     - target: {fileID: 1010126792893640, guid: e70233268e8d3e64187fc14a41cacef0, type: 3}
+      propertyPath: m_TagString
+      value: Restart
+      objectReference: {fileID: 0}
+    - target: {fileID: 1052906235292198, guid: e70233268e8d3e64187fc14a41cacef0, type: 3}
       propertyPath: m_TagString
       value: Restart
       objectReference: {fileID: 0}
@@ -12520,6 +12556,10 @@ PrefabInstance:
       value: shopping cart prefab (7)
       objectReference: {fileID: 0}
     - target: {fileID: 1010126792893640, guid: e70233268e8d3e64187fc14a41cacef0, type: 3}
+      propertyPath: m_TagString
+      value: Restart
+      objectReference: {fileID: 0}
+    - target: {fileID: 1052906235292198, guid: e70233268e8d3e64187fc14a41cacef0, type: 3}
       propertyPath: m_TagString
       value: Restart
       objectReference: {fileID: 0}
